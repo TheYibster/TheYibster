@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @TheYibster
+      -2nd year Applied Math B.S. at UCSB
+- 👀 I’m interested in
+      -developing software, applications, and video games!
+- 🌱 I’m currently learning 
+      -Python! 
+- 💞️ I’m looking to collaborate on 
+      -any opportunities to Learn!!
+      -Willing to do anything in Python!
+- 📫 How to reach me
+      -If you have any tips or advice for a beginninger coder, please send an email at yiboliang02@gmail.com
