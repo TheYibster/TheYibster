@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheYibster
+- 👋 Hi, I’m Yibo
       -2nd year Applied Math B.S. at UCSB
 - 👀 I’m interested in
       -developing software, applications, and video games!
