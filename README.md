@@ -6,12 +6,12 @@
       
 - 🌱 I’m currently learning 
       -Python
-      -SQL
+      -mySQL
       -html/css
       -js
       
 - 💞️ I’m looking to collaborate on 
-      -any opportunities to Learn!!
+      -web application, data models/machine learning
       
 - 📫 How to reach me
       yiboliang02@gmail.com
